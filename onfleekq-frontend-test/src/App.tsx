@@ -1,10 +1,10 @@
 import { useState } from "react";
 import "./index.css";
-import Navbar from "./components/navbar";
+import BodyComponent from "./components/Bodycomponent";
 function App() {
   return (
     <>
-      <Navbar />
+      <BodyComponent />
     </>
   );
 }
